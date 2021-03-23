@@ -22,6 +22,6 @@ My credentials include a degree in Technology in analysis and systems developmen
 ## Projetos:
 MY Projects:
 
-* ** Como identificar e logo remover outliers com Python: Identificando e Removendo Outliers.ipynb
+* ** Como identificar e logo remover outliers com Python: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Identificando%20e%20Removendo%20Outliers.ipynb
 
 ---
