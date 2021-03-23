@@ -22,6 +22,6 @@ My credentials include a degree in Technology in analysis and systems developmen
 ## Projetos:
 MY Projects:
 
-* **
+* ** Como identificar e logo remover outliers com Python: Identificando e Removendo Outliers.ipynb
 
 ---
