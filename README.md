@@ -23,6 +23,6 @@ My credentials include a degree in Technology in analysis and systems developmen
 MY Projects:
 
 * ** Como identificar e logo remover outliers com Python: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Identificando%20e%20Removendo%20Outliers.ipynb
-* ** Fazendo algumas consultas com dados que peguei no Kaggle onde mostra mais de 5 mil filmes e com varios campos incluidos:Avaliação dos Filmes .ipynb
+* ** Fazendo algumas consultas com dados que peguei no Kaggle onde mostra mais de 5 mil filmes e com varios campos incluidos: Avaliação dos Filmes .ipynb
 
 ---
