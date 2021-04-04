@@ -26,4 +26,5 @@ MY Projects:
 * ** Fazendo algumas consultas com dados que peguei no Kaggle onde mostra mais de 5 mil filmes e com varios campos incluidos: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Avalia%C3%A7%C3%A3o%20dos%20Filmes%20.ipynb
 
 * ** Fazendo algumas consultas com dados do Pokemon: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Pokemon.ipynb
+* ** Deafio Kaggle Titanic Titanic.csv
 ---
