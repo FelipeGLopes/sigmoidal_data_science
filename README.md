@@ -27,4 +27,5 @@ MY Projects:
 
 * ** Fazendo algumas consultas com dados do Pokemon: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Pokemon.ipynb
 * ** Deafio Kaggle Titanic: https://github.com/FelipeGLopes/sigmoidal_data_science/blob/main/Titanic.ipynb
+* ** Cotações de algumas empresas na bolsa de valores:
 ---
